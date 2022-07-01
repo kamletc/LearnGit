@@ -34,7 +34,7 @@ public class GetTittleAndUrl {
 		 
 		 String title=dvr.getTitle();
 		 if (title.equalsIgnoreCase("YouTube"))
-				System.out.println("Test is Pass");
+				System.out.println("Test is Pass AS TITLE MATCH");
 		 		System.out.println(title);
 		 		
 		 		dvr.quit();		
